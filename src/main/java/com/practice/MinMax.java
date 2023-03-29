@@ -21,8 +21,7 @@ public class MinMax {
 		System.out.println("min no." + min);
 		System.out.println("--------------------------------------------------------------------------------");
 
-		System.out.println("difference between" + (max - min));
-		System.out.println("---------------------------------------------------------------------------------");
+		
 
 	}
 
