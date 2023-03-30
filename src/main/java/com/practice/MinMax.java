@@ -19,6 +19,7 @@ public class MinMax {
 			}
 		}
 		System.out.println("min no." + min);
+		System.out.println("Sonal Branch1");
 		System.out.println("--------------------------------------------------------------------------------");
 
 		
